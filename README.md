@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Gareth, an NUS trained computer scientist with a specialization in computer networks.
+
 <!--
 **garethkoh/garethkoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
